@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260607174817F9Z6RB</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260607174817EC97AS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto &quot;Descubrimos nuestro barrio&quot; </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Curso competencia digital B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carlos Zamora García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780846699706</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq3y57pp-1xl4elzqa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descubrimos nuestro barrio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descubrimos nuestro barrio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descubrimos nuestro barrio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descubrimos nuestro barrio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57pp-1xl4elzqa</odePageId>
+      <odeBlockId>block-1780596848147-jwxbddjmy</odeBlockId>
+      <blockName>Este es mi barrio, conócelo</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57pp-1xl4elzqa</odePageId>
+          <odeBlockId>block-1780596848147-jwxbddjmy</odeBlockId>
+          <odeIdeviceId>idevice-1780596848146-8x0h1ewzg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p></p>
+<p>Nuestro barrio es el lugar seguro en el que nos vemos y hacemos nuestra vida. Es nuestra obligación conocerlo, cuidarlo y compartirlo con el resto de personas que se interesen por él. Es por ello, que vamos a ser unos estupendos anfitriones y vamos a crear nuestro "manual de instrucciones de nuestro barrio" para que cualquier persona sea capaz de conocerlo, vivirlo y sentirlo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780596848146-8x0h1ewzg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p></p>\n<p>Nuestro barrio es el lugar seguro en el que nos vemos y hacemos nuestra vida. Es nuestra obligación conocerlo, cuidarlo y compartirlo con el resto de personas que se interesen por él. Es por ello, que vamos a ser unos estupendos anfitriones y vamos a crear nuestro \"manual de instrucciones de nuestro barrio\" para que cualquier persona sea capaz de conocerlo, vivirlo y sentirlo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mq3y57pp-1xl4elzqa</odePageId>
+      <odeBlockId>block-1780598265971-i46f0bvuc</odeBlockId>
+      <blockName>Crucigrama</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57pp-1xl4elzqa</odePageId>
+          <odeBlockId>block-1780598265971-i46f0bvuc</odeBlockId>
+          <odeIdeviceId>idevice-1780598265970-xzdlkgs4k</odeIdeviceId>
+          <odeIdeviceTypeName>crossword</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="crucigrama-IDevice">
+       <div class="game-evaluation-ids js-hidden" data-id="idevice-1780598265970-xzdlkgs4k" data-evaluationb="false" data-evaluationid="85e4a640-8b77-4c92-97f6-db5a9615b085"></div>
+            <div class="crucigrama-version js-hidden">1</div>
+            <div class="crucigrama-feedback-game"></div>
+            <div class="crucigrama-instructions gameQP-instructions"><p>Vamos a comprobar si conocéis algunos de los elementos del barrio. Ánimo.</p></div>
+            <div class="crucigrama-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%C4%F3%FF%FD%E1%B2%F3%B2%F1%FD%FF%E2%E0%FD%F0%F3%E0%B2%E1%FB%B2%F1%FD%FC%FD%F1%7B%FB%E1%B2%F3%FE%F5%E7%FC%FD%E1%B2%F6%F7%B2%FE%FD%E1%B2%F7%FE%F7%FF%F7%FC%E6%FD%E1%B2%F6%F7%FE%B2%F0%F3%E0%E0%FB%FD%BC%B2S%FC%FB%FF%FD%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%D3%C0%C3%C7%D7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DE%E7%F5%F3%E0%B2%F6%FD%FC%F6%F7%B2%F8%E7%F7%F5%FD%B2%F1%FD%FC%B2%FF%FB%E1%B2%F3%FF%FB%F5%FD%E1%BC%B0%BE%B0%EA%B0%A8%A2%BC%A0%AB%A6%A1%AB%A0%A7%A0%A1%A1%A4%A6%A6%AA%A7%AB%A4%BE%B0%EB%B0%A8%A2%BC%A7%A1%A2%A0%A2%AA%A1%A1%A1%A1%A1%A1%A1%A1%A1%A1%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%F0%FE%FD%F0%A8%F3%E2%E2%A8%BD%BD%FE%FD%F1%F3%FE%FA%FD%E1%E6%BD%A3%A6%A5%A7%A6%F0%F7%A3%BF%F3%F6%A7%AB%BF%A6%A4%F6%A0%BF%AA%F3%A7%A2%BF%A4%A7%F7%A0%A1%A3%A7%A3%F4%F0%A3%A4%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C2%F3%FC%F3%F6%F7%E0%7F%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DE%E7%F5%F3%E0%B2%F7%FC%B2%F7%FE%B2%E3%E7%F7%B2%F1%FD%FF%E2%E0%FD%B2%E2%F3%FC%B2%EB%B2%F6%E7%FE%F1%F7%E1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%C1%E7%E2%F7%E0%FF%F7%E0%F1%F3%F6%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DE%E7%F5%F3%E0%B2%F7%FC%B2%F7%FE%B2%E3%E7%F7%B2%FA%F3%F1%F7%FF%FD%E1%B2%FE%F3%B2%F1%FD%FF%E2%E0%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%D1%FD%FE%F7%F5%FB%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%FB%E6%FB%FD%B2%F7%FC%B2%F7%FE%B2%E3%E7%F7%B2%F3%E2%E0%F7%FC%F6%FD%B2%EB%B2%FF%F7%B2%F6%FB%E4%FB%F7%E0%E6%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%DF%FD%FC%E7%FF%F7%FC%E6%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%E1%F3%B2%F3%FC%E6%FB%F5%E7%F3%B2%E3%E7%F7%B2%FE%F3%B2%E4%FB%E1%FB%E6%F3%B2%FE%F3%B2%F5%F7%FC%E6%F7%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%FC%E7%FE%FE%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%E6%E0%E7%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A2%F0%A6%F0%F1%F7%A7%A2%BF%A2%F1%F0%A3%BF%A1%F3%A4%A5%BF%A1%F4%A0%A7%BF%F4%A4%A4%F0%F6%F3%A0%F0%F0%A1%A3%AA%BC%F8%E2%F5%B0%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FE%F6%F7%B0%A8%E6%E0%E7%F7%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%AA%A7%F7%A6%F3%A4%A6%A2%BF%AA%F0%A5%A5%BF%A6%F1%AB%A0%BF%AB%A5%F4%A4%BF%F6%F0%A7%F3%AB%A4%A3%A7%F0%A2%AA%A7%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%A3%A2%A2%B0%BE%B0%F6%FB%F4%F4%FB%F1%E7%FE%E6%EB%B0%A8%B0%A3%A2%A2%B0%BE%B0%E6%FB%FF%F7%B0%A8%B0%A2%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%D1%F3%E0%FE%FD%E1%B2%C8%F3%FF%FD%E0%F3%B2%D5%F3%E0%F1%7F%F3%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%AA%A2%A7%AB%AA%A0%A4%A7%AB%A5%A2%BF%EA%E8%F6%FE%F9%F5%E1%A6%F9%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%FD%B2%F7%EA%E2%E0%F7%E1%FBa%FC%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%F5%E1%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F7%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%E1%BE%B2%E2%E7%FE%E1%F3%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%E0%E7%F1%FB%F5%E0%F3%FF%F3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%FA%F3%B2%E6%F7%E0%FF%FB%FC%F3%F6%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B2%D3%F1%FB%F7%E0%E6%FD%E1%A8%B2%B7%E1%B2%F6%F7%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C1%F7%FE%F7%F1%E6%C5%FD%E0%F6%B0%A8%B0%DA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%F7%FE%B2%F1%E7%F3%F6%E0%F3%F6%FD%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%E2%F3%E0%F3%B2%E4%F7%E0%B2%FE%F3%B2%F6%F7%F4%FB%FC%FB%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DA%FD%E0%FB%E8%FD%FC%E6%F3%FE%E1%B0%A8%B0%DA%FD%E0%FB%E8%FD%FC%E6%F3%FE%F7%E1%B0%BE%B0%FF%E1%F5%C4%F7%E0%E6%FB%F1%F3%FE%E1%B0%A8%B0%C4%F7%E0%E6%FB%F1%F3%FE%F7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D6%F7%F4%FB%FC%FB%E6%FB%FD%FC%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%FD%F1%E7%FE%E6%F3%E0%B2%F6%F7%F4%FB%FC%FB%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%D0%F3%F1%F9%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%BD%FD%F1%E7%FE%E6%F3%E0%B2%FB%FF%F3%F5%F7%FC%B2%F6%F7%B2%F4%FD%FC%F6%FD%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B0%EF%EF</div>
+            <a href="{{context_path}}/content/resources/parque.jpg" class="js-hidden crucigrama-LinkImages">0</a>
+            
+            <a href="{{context_path}}/content/resources/parque.jpg" class="js-hidden crucigrama-LinkBack" alt="Back" />Background</a>
+            
+            <div class="crucigrama-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+        </div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57pv-4kwjmnork</odePageId>
+  <odeParentPageId>page-mq3y57pp-1xl4elzqa</odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57pv-4kwjmnork</odePageId>
+      <odeBlockId>block-1780596235630-o7xc99ipt</odeBlockId>
+      <blockName>Características del proyecto</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57pv-4kwjmnork</odePageId>
+          <odeBlockId>block-1780596235630-o7xc99ipt</odeBlockId>
+          <odeIdeviceId>idevice-1780596235628-dd0wzo6q8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto vamos a conocer mejor el lugar donde vivimos: nuestro barrio. Descubriremos sus calles, parques, edificios, tiendas, servicios y las personas que forman parte de él.</p>
+<p>Este proyecto está pensado para niños y niñas de 2.º de Primaria y durará aproximadamente 10 sesiones (unas tres semanas).</p>
+<p>Trabajaremos sobre todo las áreas de Lengua Castellana y Literatura y Conocimiento del Medio, aunque también realizaremos actividades relacionadas con otras asignaturas.</p>
+<p>Nuestro objetivo es aprender a observar, describir y valorar el barrio en el que vivimos. Queremos conocer mejor los lugares que utilizamos cada día y comprender por qué son importantes para todas las personas.</p>
+<p>Durante el proyecto aprenderemos cuáles son los elementos más importantes del barrio, para qué sirven y cómo orientarnos por sus calles. También hablaremos sobre cómo cuidar nuestro entorno y convivir de forma respetuosa con los demás.</p>
+<p>Además, practicaremos la expresión oral y escrita describiendo lugares de nuestro barrio, escribiendo pequeños textos informativos y aprendiendo palabras nuevas relacionadas con esta temática. También escucharemos las opiniones de nuestros compañeros y compañeras, compartiremos ideas y leeremos textos sencillos.</p>
+<p>Todo lo que aprendamos nos ayudará a crear un producto final llamado “El manual de instrucciones de mi barrio”. Entre toda la clase elaboraremos una guía con descripciones de lugares, sus utilidades y algunos datos curiosos para ayudar a las personas que visiten nuestro barrio a encontrar lo que necesitan.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780596235628-dd0wzo6q8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto vamos a conocer mejor el lugar donde vivimos: nuestro barrio. Descubriremos sus calles, parques, edificios, tiendas, servicios y las personas que forman parte de él.</p>\n<p>Este proyecto está pensado para niños y niñas de 2.º de Primaria y durará aproximadamente 10 sesiones (unas tres semanas).</p>\n<p>Trabajaremos sobre todo las áreas de Lengua Castellana y Literatura y Conocimiento del Medio, aunque también realizaremos actividades relacionadas con otras asignaturas.</p>\n<p>Nuestro objetivo es aprender a observar, describir y valorar el barrio en el que vivimos. Queremos conocer mejor los lugares que utilizamos cada día y comprender por qué son importantes para todas las personas.</p>\n<p>Durante el proyecto aprenderemos cuáles son los elementos más importantes del barrio, para qué sirven y cómo orientarnos por sus calles. También hablaremos sobre cómo cuidar nuestro entorno y convivir de forma respetuosa con los demás.</p>\n<p>Además, practicaremos la expresión oral y escrita describiendo lugares de nuestro barrio, escribiendo pequeños textos informativos y aprendiendo palabras nuevas relacionadas con esta temática. También escucharemos las opiniones de nuestros compañeros y compañeras, compartiremos ideas y leeremos textos sencillos.</p>\n<p>Todo lo que aprendamos nos ayudará a crear un producto final llamado “El manual de instrucciones de mi barrio”. Entre toda la clase elaboraremos una guía con descripciones de lugares, sus utilidades y algunos datos curiosos para ayudar a las personas que visiten nuestro barrio a encontrar lo que necesitan.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57pw-yn67ekv64</odePageId>
+  <odeParentPageId>page-mq3y57pp-1xl4elzqa</odeParentPageId>
+  <pageName>Justificación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57pw-yn67ekv64</odePageId>
+      <odeBlockId>block-1780596486831-n2uvf4n31</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57pw-yn67ekv64</odePageId>
+          <odeBlockId>block-1780596486831-n2uvf4n31</odeBlockId>
+          <odeIdeviceId>idevice-1780596486830-u4qrldbvd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La mayoría de niños/as pasan gran parte de su tiempo libre por las calles de este barrio donde todos se conocen. Ellos/as se sienten parte de este barrio y, por tanto, trabajarlo desde las diferentes áreas curriculares es un plus de motivación e interés por participar, aprender y compartir con los demás. Realizar las diferentes actividades de manera cooperativa e incluir herramientas digitales, puede suponer un aprendizaje significativo para ellos/as que querrán compartir con el resto de la comunidad educativa.<br />Esta actividad va dirigida a niños/as de 2º de Educación Primaria. Pienso que es una edad en la que los niños/as están empezando a conocer su papel en el mundo, su curiosidad está intacta y tienen mucha motivación por conocer los elementos que conforman su entorno próximo. El uso de herramientas digitales con niños/as de esta edad puede ser algo tedioso, pero a la vez motivante ya que las actuales generaciones son “nativos digitales” y nacen sabiendo cómo manejar recursos digitales. Nosotros solo debemos enfocar esas habilidades hacia el aprendizaje.<br />La temporalización es orientativa ya que siempre pueden surgir imprevistos o dificultades que requieran dedicar más tiempo de lo esperado. Esto es algo que ocurre en el día y que por tanto debemos tener presente en nuestras programaciones. Mejor despacio y con buena letra.</p>
+<p>Respecto a las áreas implicadas, he seleccionado como áreas con mayor presencia las áreas de Lengua Castellana y Literatura y Conocimiento del Medio Natural, Social y Cultural debido a la tipología de las actividades que tengo en mente y de los saberes seleccionados, pero podemos integrarla en otras áreas fácilmente, como en Matemáticas para la orientación espacial en el barrio o Educación Artística al elaborar diseños propios para nuestro “Manual de Instrucciones de mi barrio”.</p>
+<p>Por último, respecto al idioma, trabajaremos en su totalidad el castellano, aunque podemos incluir algunos elementos en árabe o inglés ya que en el barrio hay una gran diversidad de población.<br />A modo de conclusión, podemos decir que, en el desarrollo de este proyecto, trabajaremos de manera cooperativa con diferentes estrategias e integraremos, en la medida de lo posible, las nuevas tecnologías. Esto pueden suponer situaciones de conflicto en las que deberemos mediar para que todos/as se sientan partícipes y valorados/as en el resultado final. Para ello es necesaria una preparación previa, unas pautas claras y concretas y una evaluación competencial que nos permita determinar que habilidades han alcanzado y de qué manera. Realizaremos una evaluación grupal e individual, teniendo en cuenta las características individuales de cada alumno/a.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780596486830-u4qrldbvd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La mayoría de niños/as pasan gran parte de su tiempo libre por las calles de este barrio donde todos se conocen. Ellos/as se sienten parte de este barrio y, por tanto, trabajarlo desde las diferentes áreas curriculares es un plus de motivación e interés por participar, aprender y compartir con los demás. Realizar las diferentes actividades de manera cooperativa e incluir herramientas digitales, puede suponer un aprendizaje significativo para ellos/as que querrán compartir con el resto de la comunidad educativa.<br />Esta actividad va dirigida a niños/as de 2º de Educación Primaria. Pienso que es una edad en la que los niños/as están empezando a conocer su papel en el mundo, su curiosidad está intacta y tienen mucha motivación por conocer los elementos que conforman su entorno próximo. El uso de herramientas digitales con niños/as de esta edad puede ser algo tedioso, pero a la vez motivante ya que las actuales generaciones son “nativos digitales” y nacen sabiendo cómo manejar recursos digitales. Nosotros solo debemos enfocar esas habilidades hacia el aprendizaje.<br />La temporalización es orientativa ya que siempre pueden surgir imprevistos o dificultades que requieran dedicar más tiempo de lo esperado. Esto es algo que ocurre en el día y que por tanto debemos tener presente en nuestras programaciones. Mejor despacio y con buena letra.</p>\n<p>Respecto a las áreas implicadas, he seleccionado como áreas con mayor presencia las áreas de Lengua Castellana y Literatura y Conocimiento del Medio Natural, Social y Cultural debido a la tipología de las actividades que tengo en mente y de los saberes seleccionados, pero podemos integrarla en otras áreas fácilmente, como en Matemáticas para la orientación espacial en el barrio o Educación Artística al elaborar diseños propios para nuestro “Manual de Instrucciones de mi barrio”.</p>\n<p>Por último, respecto al idioma, trabajaremos en su totalidad el castellano, aunque podemos incluir algunos elementos en árabe o inglés ya que en el barrio hay una gran diversidad de población.<br />A modo de conclusión, podemos decir que, en el desarrollo de este proyecto, trabajaremos de manera cooperativa con diferentes estrategias e integraremos, en la medida de lo posible, las nuevas tecnologías. Esto pueden suponer situaciones de conflicto en las que deberemos mediar para que todos/as se sientan partícipes y valorados/as en el resultado final. Para ello es necesaria una preparación previa, unas pautas claras y concretas y una evaluación competencial que nos permita determinar que habilidades han alcanzado y de qué manera. Realizaremos una evaluación grupal e individual, teniendo en cuenta las características individuales de cada alumno/a.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57px-u6yemwp2j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57px-u6yemwp2j</odePageId>
+      <odeBlockId>block-1780597047413-ijh29izoh</odeBlockId>
+      <blockName>Navegación segura</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57px-u6yemwp2j</odePageId>
+          <odeBlockId>block-1780597047413-ijh29izoh</odeBlockId>
+          <odeIdeviceId>idevice-1780597047407-4c756q1g3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Licencias y seguridad.jpg" width="800" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780597047407-4c756q1g3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Licencias y seguridad.jpg\" width=\"800\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57py-me7g3tahl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57py-me7g3tahl</odePageId>
+      <odeBlockId>block-1780599652551-s1ssywwbh</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57py-me7g3tahl</odePageId>
+          <odeBlockId>block-1780599652551-s1ssywwbh</odeBlockId>
+          <odeIdeviceId>idevice-1780599652542-zzbly9qt1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p>El producto final de este proyecto consistirá en la elaboración cooperativa de un Manual de Instrucciones del Barrio en formato digital mediante la herramienta Canva. Este recurso tendrá como finalidad dar a conocer los lugares más importantes y representativos del entorno cercano del alumnado, convirtiéndose en una guía útil para cualquier persona que visite el barrio.</p>
+<p>Para su elaboración, el alumnado llevará a cabo un proceso de investigación y recopilación de información sobre diferentes espacios de interés, tales como parques, centros educativos, comercios, instalaciones deportivas, edificios públicos o lugares emblemáticos. Posteriormente, seleccionará la información más relevante, la organizará de manera clara y elaborará descripciones sencillas de cada lugar, indicando sus características principales, su utilidad y datos de interés.</p>
+<p>Asimismo, los niños y niñas aprenderán a orientarse en el entorno, incorporando indicaciones y recorridos sencillos que permitan llegar a los diferentes lugares seleccionados. Para ello, utilizarán planos, mapas, fotografías y otros elementos visuales que faciliten la comprensión de la información.</p>
+<p>Una vez recopilados y organizados los contenidos, cada grupo diseñará en Canva diferentes páginas del manual, integrando textos, imágenes, iconos, mapas y elementos gráficos que favorezcan una presentación atractiva, accesible y comprensible para los lectores.</p>
+<p>Finalmente, todos los trabajos se reunirán en un único documento digital que constituirá el Manual de Instrucciones del Barrio. Este producto será presentado y difundido a la comunidad educativa mediante una exposición oral, permitiendo al alumnado compartir los conocimientos adquiridos sobre su entorno más cercano y desarrollar sus competencias comunicativas, digitales y sociales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780599652542-zzbly9qt1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p>El producto final de este proyecto consistirá en la elaboración cooperativa de un Manual de Instrucciones del Barrio en formato digital mediante la herramienta Canva. Este recurso tendrá como finalidad dar a conocer los lugares más importantes y representativos del entorno cercano del alumnado, convirtiéndose en una guía útil para cualquier persona que visite el barrio.</p>\n<p>Para su elaboración, el alumnado llevará a cabo un proceso de investigación y recopilación de información sobre diferentes espacios de interés, tales como parques, centros educativos, comercios, instalaciones deportivas, edificios públicos o lugares emblemáticos. Posteriormente, seleccionará la información más relevante, la organizará de manera clara y elaborará descripciones sencillas de cada lugar, indicando sus características principales, su utilidad y datos de interés.</p>\n<p>Asimismo, los niños y niñas aprenderán a orientarse en el entorno, incorporando indicaciones y recorridos sencillos que permitan llegar a los diferentes lugares seleccionados. Para ello, utilizarán planos, mapas, fotografías y otros elementos visuales que faciliten la comprensión de la información.</p>\n<p>Una vez recopilados y organizados los contenidos, cada grupo diseñará en Canva diferentes páginas del manual, integrando textos, imágenes, iconos, mapas y elementos gráficos que favorezcan una presentación atractiva, accesible y comprensible para los lectores.</p>\n<p>Finalmente, todos los trabajos se reunirán en un único documento digital que constituirá el Manual de Instrucciones del Barrio. Este producto será presentado y difundido a la comunidad educativa mediante una exposición oral, permitiendo al alumnado compartir los conocimientos adquiridos sobre su entorno más cercano y desarrollar sus competencias comunicativas, digitales y sociales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57pz-49zp6frjp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57pz-49zp6frjp</odePageId>
+      <odeBlockId>block-1780840275823-jzx6ode87</odeBlockId>
+      <blockName>Herramientas que vas a necesitar</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57pz-49zp6frjp</odePageId>
+          <odeBlockId>block-1780840275823-jzx6ode87</odeBlockId>
+          <odeIdeviceId>idevice-1780840275822-q6yjkai5b</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/carloszg20/manual-de-instrucciones-de-mi-barrio-4u47yz325r4tafpa" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57q0-59ck3lx9c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización temporal del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización temporal del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57q0-59ck3lx9c</odePageId>
+      <odeBlockId>block-1780597258911-tozmg52mg</odeBlockId>
+      <blockName>No te pierdas, sígueme</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57q0-59ck3lx9c</odePageId>
+          <odeBlockId>block-1780597258911-tozmg52mg</odeBlockId>
+          <odeIdeviceId>idevice-1780597258883-3fhebaovk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Si en algún momento estás perdido, no te preocupes. Aquí tienes un mapa mental en el que se muestra los elementos principales que estructuran este proyecto para que puedas orientarte siempre que quieras.</p>
+<p><a href="https://drive.google.com/file/d/19llL4gYzLy3hAdK5OKGgjuju1cEpfmmP/view?usp=drive_link" title="">Mapa mental</a></p>
+<p><img src="{{context_path}}/content/resources/Distribución temporal.png" width="1366" height="768" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780597258883-3fhebaovk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si en algún momento estás perdido, no te preocupes. Aquí tienes un mapa mental en el que se muestra los elementos principales que estructuran este proyecto para que puedas orientarte siempre que quieras.</p>\n<p><a href=\"https://drive.google.com/file/d/19llL4gYzLy3hAdK5OKGgjuju1cEpfmmP/view?usp=drive_link\" title=\"\">Mapa mental</a></p>\n<p><img src=\"{{context_path}}/content/resources/Distribución temporal.png\" width=\"1366\" height=\"768\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57q0-3t6chqlam</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57q0-3t6chqlam</odePageId>
+      <odeBlockId>block-1780598161245-0hnzm385d</odeBlockId>
+      <blockName>Evaluar para mejorar</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57q0-3t6chqlam</odePageId>
+          <odeBlockId>block-1780598161245-0hnzm385d</odeBlockId>
+          <odeIdeviceId>idevice-1780598161239-6c2ey27q7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780598161239-6c2ey27q7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57q1-9e26nncon</odePageId>
+  <odeParentPageId>page-mq3y57q0-3t6chqlam</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57q1-9e26nncon</odePageId>
+      <odeBlockId>block-1780597763141-vvux9a0a3</odeBlockId>
+      <blockName>Guía didactica</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57q1-9e26nncon</odePageId>
+          <odeBlockId>block-1780597763141-vvux9a0a3</odeBlockId>
+          <odeIdeviceId>idevice-1780597763130-dt9ckfkc6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, muestro un enlace con un archivo PDF en el que se detallan las sesiones que componen el proyecto, los criterios a evaluar, el tiempo de realización y las herramientas digitales que el alumnado deberá utilizar.</p>
+<p><a href="https://drive.google.com/file/d/16g3fKN-sAqqj45ZqZFULFJqYLFizA9tu/view?usp=sharing" title="">Guía didáctica</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780597763130-dt9ckfkc6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, muestro un enlace con un archivo PDF en el que se detallan las sesiones que componen el proyecto, los criterios a evaluar, el tiempo de realización y las herramientas digitales que el alumnado deberá utilizar.</p>\n<p><a href=\"https://drive.google.com/file/d/16g3fKN-sAqqj45ZqZFULFJqYLFizA9tu/view?usp=sharing\" title=\"\">Guía didáctica</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57q2-v1sjgwrgl</odePageId>
+  <odeParentPageId>page-mq3y57q0-3t6chqlam</odeParentPageId>
+  <pageName>Técnicas e instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Técnicas e instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Técnicas e instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57q2-v1sjgwrgl</odePageId>
+      <odeBlockId>block-1780840620790-njorq7n0w</odeBlockId>
+      <blockName>Técnicas e instrumentos de evaluación recomendadas</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57q2-v1sjgwrgl</odePageId>
+          <odeBlockId>block-1780840620790-njorq7n0w</odeBlockId>
+          <odeIdeviceId>idevice-1780840620786-4jcjpou2u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br />Técnica: observación directa y sistemática.</p>
+<p>Instrumento: lista de cotejo.</p>
+<p>Esta técnica e instrumento de evaluación se utilizará en las sesiones 1,2,3 y 5. En estas sesiones predomina la expresión oral (investiga, razona y explica). La observación se realizará en momentos concretos planificados previamente. La realizaremos con un formulario de Google vinculado a Classroom. Las respuestas quedarán registradas automáticamente en una hoja de cálculo que nos permite tener una visión más global del progreso del alumno/a.</p>
+<p>Los indicadores que componen la lista de cotejo son:</p>
+<p>-         Participa en conversaciones de manera respetuosa.</p>
+<p>-         Escucha a los compañeros/as sin interrumpir.</p>
+<p>-         Añade y argumenta información relacionada con el tema hablado.</p>
+<p>-         Colabora activamente con su grupo/pareja/trío.</p>
+<p>-         Sigues las pautas dadas.</p>
+<p>Estos datos se recogerán en una tabla sencilla con dos niveles:</p>
+<p>-         Sí, lo consigue.</p>
+<p>-         No, necesita ayuda.</p>
+<p>Al utilizar este instrumento, pueden aparecer variables que alteren los resultados. Para ello aplicaremos las siguientes medidas:</p>
+<p>-         Alumno/a tímida:</p>
+<p>Valoraremos sus intervenciones en diferentes momentos del proyecto, tratando de crear un clima de confianza en el aula.</p>
+<p>-         Alumno/a con afán de protagonismo:</p>
+<p>Haremos valoraciones individuales y grupales.</p>
+<p>-         Alumno/a con diferente nivel de desarrollo madurativo:</p>
+<p>Haremos valoraciones teniendo en cuenta el punto de partida y no comparando con el resto del grupo.</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+<p>Técnica: análisis del producto final del alumnado.</p>
+<p>Instrumento: rúbrica.</p>
+<p>Esta técnica la emplearemos en las sesiones 4,6 y 7 que desencadenan en la elaboración final del producto final. Classroom nos permite asociar una rúbrica a una tarea concreta e incluir los siguientes criterios:</p>
+<p>-          Selecciona información relevante sobre el lugar asignado, incluyendo datos importantes y evitando la repetición.</p>
+<p>-         Describe el lugar con un vocabulario acorde a su edad y expresa su importancia.</p>
+<p>-         Identifica y ubica el lugar dentro del mapa o plano y explica cómo llegar a ese lugar con indicaciones claras y sencillas.</p>
+<p>-         Habla con un volumen, entonación y ritmo adecuado, expresando la información en un orden coherente.</p>
+<p>-         Utiliza CANVA y otros dispositivos siguiendo las indicaciones dadas, respetando los turnos y solicitando ayuda a su grupo o docente.</p>
+<p>-         Presenta un producto final organizado, atractivo y estructurado de manera coherente para facilitar su comprensión.</p>
+<p>Estos aspectos se valorarán en la rúbrica por medio de cuatro niveles de logro:</p>
+<p>1.     Excelente.</p>
+<p>2.     Adecuado.</p>
+<p>3.     En proceso.</p>
+<p>4.     Necesita apoyo.</p>
+<p>Al utilizar este instrumento, pueden aparecer variables que alteren los resultados. Para ello aplicaremos las siguientes medidas:</p>
+<p>-         Diferentes niveles de competencia digital:</p>
+<p>Valoraremos exclusivamente el uso funcional que le dé a la herramienta.</p>
+<p>-         Problemas con las apps o dispositivos:</p>
+<p>Valorar de manera aislada las competencias del alumnado sin tener en cuenta los imprevistos tecnológicos.</p>
+<p>-         Implicación desigual en el grupo:</p>
+<p>Añadir a la rúbrica una observación individualizada de los componentes del grupo.</p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+<p>Técnica: Observación directa y sistemática.</p>
+<p>Instrumento: diana de autoevaluación y coevaluación.</p>
+<p>Emplearemos este instrumento de evaluación en la sesión 8 al presenta nuestro proyecto a la comunidad educativa. Podremos transformar estas dianas en un formulario de Google con escalas de valoración del 1 al 4. Para ello usarán los portátiles del centro por turnos, registrándose sus respuestas en una hoja de cálculo que el maestro valorará posteriormente. Los aspectos que el alumnado valorará son:</p>
+<p>-         He trabajado bien dentro de mi grupo.</p>
+<p>-         He respetado las ideas y opiniones de mis compañeros/as.</p>
+<p>-         He participado activamente en todas las actividades.</p>
+<p>-         Me he sentido cómodo, escuchado y valorado en mi grupo.</p>
+<p>Por otro lado, evaluaremos también el trabajo y esfuerzo de nuestros compañeros con los siguientes aspectos:</p>
+<p>-         Todos los integrantes del grupo han participado en el proyecto.</p>
+<p>-         Todos los integrantes del grupo han aportado información e ideas.</p>
+<p>-         Todos los integrantes del grupo han respetado las normas y las indicaciones de uso de los dispositivos y recursos.</p>
+<p>-         Todos los integrantes del grupo han respetado a sus compañeros/as.</p>
+<p>En estas dianas estableceremos cuatro capas que el alumnado coloreará de algún color, dependiendo de la valoración:</p>
+<p>-         Capas 1,2,3,y 4 = muy bien.</p>
+<p>-         Capas 1,2 y 3 = bien.</p>
+<p>-         Capas 1 y 2 = regular.</p>
+<p>-         Capa 1 = mal.</p>
+<p>Al utilizar este instrumento, pueden aparecer variables que alteren los resultados. Para ello aplicaremos las siguientes medidas:</p>
+<p>-         Valorarse siempre alto:</p>
+<p>Explicaremos con ejemplos cada nivel para que sean realistas.</p>
+<p>-         Influencia de la amistad:</p>
+<p>La diana de coevaluación será anónima, reflejándose solo el grupo.</p>
+<p>-         Dificultades para valorar su aprendizaje:</p>
+<p>Guiar la valoración mediante preguntas orales.</p>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+<p><img src="{{context_path}}/content/resources/mceclip5.png" width="402" height="597" /></p>
+<p>Unificación de datos.</p>
+<p>Como hemos señalado anteriormente, los instrumentos de evaluación seleccionados se pueden digitalizar por medio de Classroom y las herramientas que tiene asociadas. Las listas de cotejo se elaboran con los formularios de Google, integraremos una rúbrica a cada tarea en Classroom y las dianas de autoevaluación y coevaluación se pueden transformas en formularios con escalas de valoración. La información que se recoja con estos medios, se registran en hojas de cálculo que aporten una visión más global y objetiva del aprendizaje del alumno/a. </p>
+<p>En los centros educativos disponemos del cuaderno de evaluación de Sénca. Podremos trasladar toda esta información y asociarla a los criterios de evaluación seleccionados para nuestro curso. De esta manera tendremos todos los datos recogidos en una única herramienta que nos facilita la evaluación competencial del alumnado, valorando los objetivos alcanzados y las dificultades detectadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780840620786-4jcjpou2u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br />Técnica: observación directa y sistemática.</p>\n<p>Instrumento: lista de cotejo.</p>\n<p>Esta técnica e instrumento de evaluación se utilizará en las sesiones 1,2,3 y 5. En estas sesiones predomina la expresión oral (investiga, razona y explica). La observación se realizará en momentos concretos planificados previamente. La realizaremos con un formulario de Google vinculado a Classroom. Las respuestas quedarán registradas automáticamente en una hoja de cálculo que nos permite tener una visión más global del progreso del alumno/a.</p>\n<p>Los indicadores que componen la lista de cotejo son:</p>\n<p>-         Participa en conversaciones de manera respetuosa.</p>\n<p>-         Escucha a los compañeros/as sin interrumpir.</p>\n<p>-         Añade y argumenta información relacionada con el tema hablado.</p>\n<p>-         Colabora activamente con su grupo/pareja/trío.</p>\n<p>-         Sigues las pautas dadas.</p>\n<p>Estos datos se recogerán en una tabla sencilla con dos niveles:</p>\n<p>-         Sí, lo consigue.</p>\n<p>-         No, necesita ayuda.</p>\n<p>Al utilizar este instrumento, pueden aparecer variables que alteren los resultados. Para ello aplicaremos las siguientes medidas:</p>\n<p>-         Alumno/a tímida:</p>\n<p>Valoraremos sus intervenciones en diferentes momentos del proyecto, tratando de crear un clima de confianza en el aula.</p>\n<p>-         Alumno/a con afán de protagonismo:</p>\n<p>Haremos valoraciones individuales y grupales.</p>\n<p>-         Alumno/a con diferente nivel de desarrollo madurativo:</p>\n<p>Haremos valoraciones teniendo en cuenta el punto de partida y no comparando con el resto del grupo.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>\n<p>Técnica: análisis del producto final del alumnado.</p>\n<p>Instrumento: rúbrica.</p>\n<p>Esta técnica la emplearemos en las sesiones 4,6 y 7 que desencadenan en la elaboración final del producto final. Classroom nos permite asociar una rúbrica a una tarea concreta e incluir los siguientes criterios:</p>\n<p>-          Selecciona información relevante sobre el lugar asignado, incluyendo datos importantes y evitando la repetición.</p>\n<p>-         Describe el lugar con un vocabulario acorde a su edad y expresa su importancia.</p>\n<p>-         Identifica y ubica el lugar dentro del mapa o plano y explica cómo llegar a ese lugar con indicaciones claras y sencillas.</p>\n<p>-         Habla con un volumen, entonación y ritmo adecuado, expresando la información en un orden coherente.</p>\n<p>-         Utiliza CANVA y otros dispositivos siguiendo las indicaciones dadas, respetando los turnos y solicitando ayuda a su grupo o docente.</p>\n<p>-         Presenta un producto final organizado, atractivo y estructurado de manera coherente para facilitar su comprensión.</p>\n<p>Estos aspectos se valorarán en la rúbrica por medio de cuatro niveles de logro:</p>\n<p>1.     Excelente.</p>\n<p>2.     Adecuado.</p>\n<p>3.     En proceso.</p>\n<p>4.     Necesita apoyo.</p>\n<p>Al utilizar este instrumento, pueden aparecer variables que alteren los resultados. Para ello aplicaremos las siguientes medidas:</p>\n<p>-         Diferentes niveles de competencia digital:</p>\n<p>Valoraremos exclusivamente el uso funcional que le dé a la herramienta.</p>\n<p>-         Problemas con las apps o dispositivos:</p>\n<p>Valorar de manera aislada las competencias del alumnado sin tener en cuenta los imprevistos tecnológicos.</p>\n<p>-         Implicación desigual en el grupo:</p>\n<p>Añadir a la rúbrica una observación individualizada de los componentes del grupo.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p>Técnica: Observación directa y sistemática.</p>\n<p>Instrumento: diana de autoevaluación y coevaluación.</p>\n<p>Emplearemos este instrumento de evaluación en la sesión 8 al presenta nuestro proyecto a la comunidad educativa. Podremos transformar estas dianas en un formulario de Google con escalas de valoración del 1 al 4. Para ello usarán los portátiles del centro por turnos, registrándose sus respuestas en una hoja de cálculo que el maestro valorará posteriormente. Los aspectos que el alumnado valorará son:</p>\n<p>-         He trabajado bien dentro de mi grupo.</p>\n<p>-         He respetado las ideas y opiniones de mis compañeros/as.</p>\n<p>-         He participado activamente en todas las actividades.</p>\n<p>-         Me he sentido cómodo, escuchado y valorado en mi grupo.</p>\n<p>Por otro lado, evaluaremos también el trabajo y esfuerzo de nuestros compañeros con los siguientes aspectos:</p>\n<p>-         Todos los integrantes del grupo han participado en el proyecto.</p>\n<p>-         Todos los integrantes del grupo han aportado información e ideas.</p>\n<p>-         Todos los integrantes del grupo han respetado las normas y las indicaciones de uso de los dispositivos y recursos.</p>\n<p>-         Todos los integrantes del grupo han respetado a sus compañeros/as.</p>\n<p>En estas dianas estableceremos cuatro capas que el alumnado coloreará de algún color, dependiendo de la valoración:</p>\n<p>-         Capas 1,2,3,y 4 = muy bien.</p>\n<p>-         Capas 1,2 y 3 = bien.</p>\n<p>-         Capas 1 y 2 = regular.</p>\n<p>-         Capa 1 = mal.</p>\n<p>Al utilizar este instrumento, pueden aparecer variables que alteren los resultados. Para ello aplicaremos las siguientes medidas:</p>\n<p>-         Valorarse siempre alto:</p>\n<p>Explicaremos con ejemplos cada nivel para que sean realistas.</p>\n<p>-         Influencia de la amistad:</p>\n<p>La diana de coevaluación será anónima, reflejándose solo el grupo.</p>\n<p>-         Dificultades para valorar su aprendizaje:</p>\n<p>Guiar la valoración mediante preguntas orales.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip5.png\" width=\"402\" height=\"597\" /></p>\n<p>Unificación de datos.</p>\n<p>Como hemos señalado anteriormente, los instrumentos de evaluación seleccionados se pueden digitalizar por medio de Classroom y las herramientas que tiene asociadas. Las listas de cotejo se elaboran con los formularios de Google, integraremos una rúbrica a cada tarea en Classroom y las dianas de autoevaluación y coevaluación se pueden transformas en formularios con escalas de valoración. La información que se recoja con estos medios, se registran en hojas de cálculo que aporten una visión más global y objetiva del aprendizaje del alumno/a. </p>\n<p>En los centros educativos disponemos del cuaderno de evaluación de Sénca. Podremos trasladar toda esta información y asociarla a los criterios de evaluación seleccionados para nuestro curso. De esta manera tendremos todos los datos recogidos en una única herramienta que nos facilita la evaluación competencial del alumnado, valorando los objetivos alcanzados y las dificultades detectadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq3y57q3-gnbhwvxdb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq3y57q3-gnbhwvxdb</odePageId>
+      <odeBlockId>block-1780847135920-e1fk7dlbo</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq3y57q3-gnbhwvxdb</odePageId>
+          <odeBlockId>block-1780847135920-e1fk7dlbo</odeBlockId>
+          <odeIdeviceId>idevice-1780847135916-ipqdiwsev</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Proyecto "Descubrimos nuestro barrio"&nbsp;</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked">
+<p>En este proyecto vamos a conocer mejor el lugar donde vivimos: nuestro barrio. Descubriremos sus calles, parques, edificios, tiendas, servicios y las personas que forman parte de él.</p>
+<p>Este proyecto está pensado para niños y niñas de 2.º de Primaria y durará aproximadamente 10 sesiones (unas tres semanas).</p>
+<p>Trabajaremos sobre todo las áreas de Lengua Castellana y Literatura y Conocimiento del Medio, aunque también realizaremos actividades relacionadas con otras asignaturas.</p>
+<p>Nuestro objetivo es aprender a observar, describir y valorar el barrio en el que vivimos. Queremos conocer mejor los lugares que utilizamos cada día y comprender por qué son importantes para todas las personas.</p>
+<p>Durante el proyecto aprenderemos cuáles son los elementos más importantes del barrio, para qué sirven y cómo orientarnos por sus calles. También hablaremos sobre cómo cuidar nuestro entorno y convivir de forma respetuosa con los demás.</p>
+<p>Además, practicaremos la expresión oral y escrita describiendo lugares de nuestro barrio, escribiendo pequeños textos informativos y aprendiendo palabras nuevas relacionadas con esta temática. También escucharemos las opiniones de nuestros compañeros y compañeras, compartiremos ideas y leeremos textos sencillos.</p>
+<p>Todo lo que aprendamos nos ayudará a crear un producto final llamado “El manual de instrucciones de mi barrio”. Entre toda la clase elaboraremos una guía con descripciones de lugares, sus utilidades y algunos datos curiosos para ayudar a las personas que visiten nuestro barrio a encontrar lo que necesitan.</p>
+<span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Carlos Zamora García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
